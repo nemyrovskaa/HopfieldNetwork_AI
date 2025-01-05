@@ -1,4 +1,5 @@
 # Hopfield Neural Network
+2023
 
 ## Overview
 The Hopfield network is a recurrent neural network that functions as an associative memory system. In this project, the network is designed to recognize distorted letter patterns.
